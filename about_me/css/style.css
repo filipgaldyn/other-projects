@@ -123,5 +123,6 @@ body {
 }
 
 .info-contact-social img {
+  margin: 5px;
   height: 13px;
 }
